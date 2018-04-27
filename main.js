@@ -6,7 +6,7 @@
   render_chart("#stanley", "Stanley Hudson", data, "Stanley", false, false, false);
   render_chart("#dwight", "Dwight Schrute", data, "Dwight", false, false, false);
   // render_chart("#jim", "Jim Halpert", data, "Jim", false, false);
-  render_chart("#pam", "Pam Beesley", data, "Pam", false, false, true);
+  render_chart("#pam", "Pam Beesly", data, "Pam", false, false, true);
   // render_chart("#andy", "Andy Bernard", data, "Andy", false, false);
   render_chart("#angela", "Angela Martin", data, "Angela", false, false, false);
   render_chart("#toby", "Toby Flenderson", data, "Toby", false, false, false);
